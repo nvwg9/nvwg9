@@ -23,10 +23,3 @@
 - 💬 Завжди відкрита до обговорення коду, оптимізації та нових технологій.
 
 ---
-
-### 📊 GitHub Статистика
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvwg9&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvwg9&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
